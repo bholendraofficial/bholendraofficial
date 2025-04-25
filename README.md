@@ -1,37 +1,27 @@
-<!---
-bholendraofficial/bholendraofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # **BHOLENDRA SINGH**
 
-## **Lead Software Engineer | Android & Flutter Developer**
+## **Lead Software Engineer | Android & Flutter Team Lead | 7.5+ Years of Experience**
 
-**Mobile**: [\+91-7607687812](https://wa.me/917607687812)  
-**Email**: [bholendraofficial@gmail.com](mailto:bholendraofficial@gmail.com)  
-**Linkedin**: [bholendraofficial](https://www.linkedin.com/in/bholendraofficial/)  
-**Skype**: [bholendraofficial](mailto:bholendraofficial@hotmail.com)
+**Mobile**: [\+91-7607687812](https://wa.me/917607687812)  **Email**: [bholendraofficial@gmail.com](mailto:bholendraofficial@gmail.com)  
+**Github:** [bholendraofficial](https://github.com/bholendraofficial)  **Linkedin**: [bholendraofficial](https://www.linkedin.com/in/bholendraofficial/)
 
-**SUMMARY:-**
+# **SUMMARY:-**
 
-Experienced Android and Flutter mobile application developer (Team Lead) with 7.4+ years of experience. I am skilled in various programming languages and tools, including Android, Flutter (Hybrid), Java, Kotlin, Dart, Firebase, and Google Cloud.  
-I am always ready to take on new challenges, learn new technologies, and use my expertise to solve real-time problems.
-
-# 
+## Experienced Android & Flutter Team Lead with 7.5+ years of expertise in building scalable, high-performance mobile applications. Skilled in Android (Java/Kotlin), Flutter (Dart), Firebase, and Google Cloud. Proven track record of delivering apps used by millions of users. Quick learner, problem solver, and ready to take on new challenges.
 
 # **PROFESSIONAL EXPERIENCE:-**
 
 [**India Today Group \- Aaj Tak News Channel**](https://www.indiatodaygroup.com/)  
 Sr. Android & Flutter Developer (Team Lead)  
-*Feb 2022 – Present* 
+*February 2022 – Present* 
 
 - Managing the Android team with two major projects, Aaj Tak and India Today News applications, working on the latest technologies with Android & Flutter, and project planning  
-- Released new features with a 99% crash-free rate for over 8 million users.  
+- Improved crash-free sessions from 92% to 99% on the AajTak app (8 million users)  
 - Created in-house Android SDKs to enable code reusability in other projects.
 
  **[iWebServices Private Limited](https://www.i-webservices.com/)**  
 Sr.  [Android](https://developer.android.com) & [Flutter Developer](https://flutter.dev)  
-*Aug 2020 to Jan 2022*
+*August 2020 to January 2022*
 
 - Developed projects from scratch and deployed them on the production server, including Names, LearnArean, Black, and Mediums, using Android and Flutter technologies.  
 - Provided technical support to team members and participated in client discussions with US clients.
@@ -62,17 +52,8 @@ Sr.  [Android](https://developer.android.com) & [Flutter Developer](https://flut
 
 # **TRAINING & CERTIFICATES:-**
 
-| Apprenticeship Training in Android Technology [*Softpro India*](http://www.softproindia.org/) *– July 2017 to February 2018*  [Java (Basic) Certificate](https://www.hackerrank.com/certificates/936c98cb4921)  [*HackerRank*](https://www.hackerrank.com/) *– Issued: 17 June 2022* | [Programming Using Java Certificate](https://edunxt.manipalprolearn.com/FileRepository/Certificate/MER73520_38997.pdf) [*Sikkim Manipal Pro Learn*](https://www.manipalprolearn.com/) *– Issued: 28 Aug 2018*  [Android App Development Certificate](https://edunxt.manipalprolearn.com/FileRepository/Certificate/PAR73520_38994.pdf) [*Sikkim Manipal Pro Learn*](https://www.manipalprolearn.com/) *– Issued:  24 March 2018* |
+| Apprenticeship Training in Android Technology [*Softpro India*](http://www.softproindia.org/) *– July 2017 to February 2018*  [Java (Basic) Certificate](https://www.hackerrank.com/certificates/936c98cb4921)  [*HackerRank*](https://www.hackerrank.com/) *– Issued: 17 June 2022* | [Programming Using Java Certificate](https://edunxt.manipalprolearn.com/FileRepository/Certificate/MER73520_38997.pdf) [*Sikkim Manipal Pro Learn*](https://www.manipalprolearn.com/) *– Issued: 28 Aug 2018*  [Android App Development Certificate](https://edunxt.manipalprolearn.com/FileRepository/Certificate/PAR73520_38994.pdf) [*Sikkim Manipal Pro Learn*](https://www.manipalprolearn.com/) *– Issued:  24 March 2018*  |
 | :---- | :---- |
-
-# **TECHNICAL SKILLS:-**
-
-**Programming Languages:** [Android](https://developer.android.com/), [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), [Java](https://www.java.com/), Kotlin, [XML](https://www.w3.org/XML/).  
-**Architecture:** Provider, MVVM, Clean Architecture.  
-**Database:** Firebase Firestore, Firebase Realtime, Microsoft SQL Database, SQLite Database.  
-**Software:** [Android Studio](https://developer.android.com/studio), [Xcode](https://developer.apple.com/xcode/), [NetBeans](https://netbeans.org/), [IntelliJ Idea](https://www.jetbrains.com/idea/), [Microsoft SQL Server](https://aka.ms/ssmsfullsetup), [Fiddler](https://www.telerik.com/download/fiddler), [FileZilla](https://filezilla-project.org/download.php), [TeamViewer](https://www.teamviewer.com/), AnyDesk, [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [MS Excel](https://products.office.com/en-in/excel), [MS Word](https://products.office.com/en-in/word), Jira.  
-**VCS:** [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/), [GitLab](https://gitlab.com/).  
-**Operating System:** [Mac](https://www.apple.com/in/macos) OS, [Windows](https://www.microsoft.com/en-in/windows), [Linux](https://ubuntu.com/).
 
 # **EDUCATION:-** 
 
@@ -80,7 +61,25 @@ Sr.  [Android](https://developer.android.com) & [Flutter Developer](https://flut
 | :---- | :---- |
 | **Bachelor of Computer Applications- BCA** *[Sikkim Manipal University*](https://smu.edu.in/smu.html)*, 2020* | **High School- 10th** *Avadh High School, Barabanki, 2013* |
 
-**RECENT PROJECTS WORKED ON:-**
+# 
+
+# **TECHNICAL SKILLS:-**
+
+**Programming Languages:**  Java, Dart, Kotlin, XML, 
+
+**Frameworks & Platforms:** Flutter, Android
+
+**Architectures:** MVVM, Provider, Clean Architecture
+
+**Databases:** Firebase Firestore, Realtime Database, SQLite, MSSQL
+
+**Tools & IDE:** Android Studio, Xcode, IntelliJ Ultimate, Visual Code, Jira, Fiddler
+
+**VCS:** Git, GitHub, GitLab, Bitbucket
+
+**Operating System:** macOS, Windows, Linux
+
+# **RECENT PROJECTS WORKED ON:-**
 
 **Project Name:**  **Aaj Tak Hindi News Live TV App (100M+ Downloads) [Google PlayStore](https://play.google.com/store/apps/details?id=in.AajTak.headlines)**
 
@@ -105,7 +104,7 @@ Sr.  [Android](https://developer.android.com) & [Flutter Developer](https://flut
 **Project Name:** **Cloud AI: ChatGPT  (Flutter 10K+ Downloads) [Google PlayStore](https://play.google.com/store/apps/details?id=com.devsig.cloudai) | [Apple AppStore](https://apps.apple.com/in/app/cloud-ai-chatbot-q-a-assist/id1665448906)**
 
 **Technology:**  Flutter, Android, iOS, Firebase, Firestore Database, Firebase Remote Config.  
-**Description:** CloudAI- ChatGPT is based on the GPT architecture and is pre-trained on a massive amount of text data, which allows it to generate human-like responses for various productivity and communication tasks 
+**Description:** CloudAI- ChatGPT is based on the GPT architecture and is pre-trained on a massive amount of text data, which allows it to generate human-like responses for various productivity and communication tasks. 
 
 **Project Name:**  **TuneUp (Flutter) [Google PlayStore](https://play.google.com/store/apps/details?id=com.tuneup) | [Apple AppStore](https://apps.apple.com/in/app/tuneup/id1483911216/)**
 
@@ -119,4 +118,4 @@ Sr.  [Android](https://developer.android.com) & [Flutter Developer](https://flut
 
 **BHOLENDRA SINGH**
 
-*Last updated on: 22 Apr 2025*
+*Last updated on: 26 Apr 2025*
